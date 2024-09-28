@@ -1,6 +1,6 @@
 /*STYLESHEET: For all pages in project*/
 body {
-
+background-color: aliceblue;
 }
 
 /*FEATURE 1: NAVIGATION STYLE*/
@@ -20,3 +20,5 @@ li a {
     padding: 8px;
     background-color: #dddddd;
 }
+
+/*FEATURE 2. BANNER STYLE*/
